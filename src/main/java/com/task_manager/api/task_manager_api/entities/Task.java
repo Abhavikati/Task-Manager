@@ -1,4 +1,4 @@
-package com.task_manager.api.task_manager_api.models;
+package com.task_manager.api.task_manager_api.entities;
 
 
 import jakarta.persistence.*;
@@ -31,8 +31,8 @@ public class Task {
 
 }
 
-//task entity with title, description, due date, priority
+//task entity with title, description, due date, priority and status
 
 //read-list entity with priority : low, medium and high
 
-//status list with : pending, in-progress, done
+//status (task details) list with : pending, in-progress, done
