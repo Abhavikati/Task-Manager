@@ -1,0 +1,219 @@
+GET http://localhost:8080/api/task
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-11T132820.200.json
+
+###
+
+POST http://localhost:8080/api/task
+Content-Type: application/json
+Content-Length: 126
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+
+  "title": "Test titile",
+  "description": "test ",
+  "dueDate": "15-05-2025",
+  "priority": "LOW",
+  "status": "PENDING"
+}
+
+<> 2025-05-11T132810.200.json
+
+###
+
+POST http://localhost:8080/api/task
+Content-Type: application/json
+Content-Length: 115
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+
+  "title": "",
+  "description": "test ",
+  "dueDate": "15-05-2025",
+  "priority": "LOW",
+  "status": "PENDING"
+}
+
+<> 2025-05-11T132739.400.json
+
+###
+
+POST http://localhost:8080/api/task
+Content-Type: application/json
+Content-Length: 111
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+
+  "title": "",
+  "description": "test ",
+  "dueDate": "estess",
+  "priority": "LOW",
+  "status": "PENDING"
+}
+
+<> 2025-05-11T132651.400.json
+
+###
+
+POST http://localhost:8080/api/task
+Content-Type: application/json
+Content-Length: 111
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+
+  "title": "",
+  "description": "test ",
+  "dueDate": "estess",
+  "priority": "LOW",
+  "status": "PENDING"
+}
+
+<> 2025-05-11T132607.400.json
+
+###
+
+POST http://localhost:8080/api/task
+Content-Type: application/json
+Content-Length: 111
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+
+  "title": "",
+  "description": "test ",
+  "dueDate": "estess",
+  "priority": "LOW",
+  "status": "PENDING"
+}
+
+<> 2025-05-11T132340.400.json
+
+###
+
+POST http://localhost:8080/api/task
+Content-Type: application/json
+Content-Length: 111
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+
+  "title": "",
+  "description": "test ",
+  "dueDate": "estess",
+  "priority": "LOW",
+  "status": "PENDING"
+}
+
+<> 2025-05-11T131118.400.json
+
+###
+
+GET http://localhost:8080/api/task
+Content-Type: application/json
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-11T131104.200.json
+
+###
+
+POST http://localhost:8080/api/task
+Content-Type: application/json
+Content-Length: 121
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "title": "",
+  "description": "test ",
+  "dueDate": "estess",
+  "priority": "LOW",
+  "status": "PENDING"
+}
+
+<> 2025-05-11T131059.400.json
+
+###
+
+POST http://localhost:8080/api/task
+Content-Type: application/json
+Content-Length: 121
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "title": "",
+  "description": "test ",
+  "dueDate": "estess",
+  "priority": "LOW",
+  "status": "PENDING"
+}
+
+<> 2025-05-11T131045.400.json
+
+###
+
+POST http://localhost:8080/api/task
+Content-Type: application/json
+Content-Length: 110
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "title": "",
+  "description": "",
+  "dueDate": "",
+  "priority": "LOW",
+  "status": "PENDING"
+}
+
+<> 2025-05-11T131030.200.json
+
+###
+
+GET http://localhost:8080/api/task
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-05-11T130952.200.json
+
+###
+
+POST http://localhost:8080/api/task
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.1.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-05-11T130901.400.json
+
+###
+
